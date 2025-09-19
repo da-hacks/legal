@@ -3,7 +3,7 @@
 **Event Organizer:** DAHacks Team  
 **Location:** De Anza College Campus, Cupertino, CA  
 **Dates:** May 30 – June 1, 2024 *(and future DAHacks events)*  
-**Contact:** deanzadevelopers@gmail.com  
+**Contact:** logistics@deanzahacks.com
 
 ---
 
@@ -40,4 +40,4 @@ We commit to using captured media respectfully. Any identifiable information bey
 
 ## 📬 Questions?
 
-For opt-outs or media concerns, please email us at: **deanzadevelopers@gmail.com**
+For opt-outs or media concerns, please email us at: **logistics@deanzahacks.com**
